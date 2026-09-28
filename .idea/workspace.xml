@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="Read me">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="paragraph bolding">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +144,7 @@
       <workItem from="1789591532661" duration="6177000" />
       <workItem from="1790022129517" duration="15182000" />
       <workItem from="1790629107410" duration="312000" />
-      <workItem from="1790629567462" duration="2349000" />
+      <workItem from="1790629567462" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -178,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790631603680</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="paragraph bolding">
+      <option name="closed" value="true" />
+      <created>1790632039835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790632039835</updated>
+    </task>
+    <task id="LOCAL-00006" summary="paragraph bolding">
+      <option name="closed" value="true" />
+      <created>1790632086257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790632086257</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +214,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project commit" />
     <MESSAGE value="Read me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read me" />
+    <MESSAGE value="paragraph bolding" />
+    <option name="LAST_COMMIT_MESSAGE" value="paragraph bolding" />
   </component>
 </project>
