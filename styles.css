@@ -109,6 +109,11 @@ body {
                         p {
                             font-size: 12px;
 
+                            spam {
+                                border-bottom: 1px solid black;
+                                font-weight:
+                            }
+
                             &.link {
                                 text-align: right;
 
