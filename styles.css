@@ -111,7 +111,7 @@ body {
 
                             spam {
                                 border-bottom: 1px solid black;
-                                font-weight:
+                                font-weight: normal;
                             }
 
                             &.link {
