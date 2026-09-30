@@ -115,7 +115,7 @@ body {
                         p {
                             font-size: 12px;
 
-                            strong {
+                            span {
                                 font-weight: bold;
                                 font-size: 110%;
                             }

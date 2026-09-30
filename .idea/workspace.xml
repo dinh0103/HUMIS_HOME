@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="paragraph bolding">
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="header">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dinh0103/HUMIS_HOME.git",
+    "accountId": "cae02998-f070-42ce-a899-74f5db228a5a"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -144,7 +151,7 @@
       <workItem from="1789591532661" duration="6177000" />
       <workItem from="1790022129517" duration="15182000" />
       <workItem from="1790629107410" duration="312000" />
-      <workItem from="1790629567462" duration="2681000" />
+      <workItem from="1790629567462" duration="4562000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -194,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790632086257</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="header">
+      <option name="closed" value="true" />
+      <created>1790632283884</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1790632283884</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +230,7 @@
     <MESSAGE value="Initial project commit" />
     <MESSAGE value="Read me" />
     <MESSAGE value="paragraph bolding" />
-    <option name="LAST_COMMIT_MESSAGE" value="paragraph bolding" />
+    <MESSAGE value="header" />
+    <option name="LAST_COMMIT_MESSAGE" value="header" />
   </component>
 </project>
