@@ -1,16 +1,18 @@
+/* Mobile styles first*/
 body {
     background-color: #292827;
     font-family: Arial, helvetica, sans-serif;
 
     div.container {
-        width: 780px;
-        /*border: 5px solid red;*/
+        min-width: 390px;
+        max-width: 780px;
         margin: 0 auto;
         background-color: white;
 
         header {
             img {
                 display: block;
+                width: 100%;
             }
         }
 
@@ -22,7 +24,7 @@ body {
             background-position: bottom right;
 
             > nav {
-                text-align: right;
+                text-align: center;
                 font-size: 10px;
                 text-transform: uppercase;
 
@@ -58,78 +60,6 @@ body {
                 margin: 10px 0 100px;
                 border-radius: 10px;
 
-                aside {
-                    border: none;
-
-                    &.left {
-                        float: left;
-                        width: 30%;
-                        min-height: 550px;
-                        position: relative;
-
-                        nav {
-                            padding: 0 20px;
-
-                            a {
-                                display: block;
-                                border-bottom: 2px #505A2F solid;
-                                padding: 10px 0 10px 15px;
-                                color: black;
-                                text-decoration: none;
-                                text-transform: uppercase;
-                                font-size: 10px;
-
-                                &:hover {
-                                    background-color: #505A2F;
-                                    color: white;
-                                }
-                            }
-                        }
-
-                        div.links {
-                            margin-top: 40px;
-                            position: absolute;
-                            bottom: 0;
-                            left: 0;
-                        }
-                    }
-
-                    &.right {
-                        float: right;
-                        width: 60%;
-                        background-color: white;
-                        padding: 10px;
-
-                        img {
-                            width: 100%;
-                        }
-
-                        h1 {
-                            color: #505A2F;
-                            border-bottom: 2px dashed #A12D37;
-                            font-size: 16px;
-                            text-transform: uppercase;
-                            font-weight: normal;
-                        }
-
-                        p {
-                            font-size: 12px;
-
-                            span {
-                                font-weight: bold;
-                                font-size: 110%;
-                            }
-
-                            &.link {
-                                text-align: right;
-
-                                a {
-                                    color: red;
-                                }
-                            }
-                        }
-                    }
-                }
             }
         }
 
@@ -139,6 +69,19 @@ body {
             color: white;
             font-size: 10px;
             padding: 10px 0;
+        }
+
+        /* Tablet and up overrides*/
+        @media screen and (width > 600px) {
+            /* A breakpoint */
+
+            border: 10px solid yellow;
+
+            section.middle {
+                > nav {
+                    text-align: right;
+                }
+            }
         }
     }
 }
