@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="title github">
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="created mobile first branch and began laying out the page content responsively">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -162,7 +162,7 @@
       <workItem from="1789591532661" duration="6177000" />
       <workItem from="1790022129517" duration="15182000" />
       <workItem from="1790629107410" duration="312000" />
-      <workItem from="1790629567462" duration="7025000" />
+      <workItem from="1790629567462" duration="14289000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -228,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790801974451</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="created mobile first branch and began laying out the page content responsively">
+      <option name="closed" value="true" />
+      <created>1790805321744</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1790805321744</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +259,7 @@
     <MESSAGE value="paragraph bolding" />
     <MESSAGE value="header" />
     <MESSAGE value="title github" />
-    <option name="LAST_COMMIT_MESSAGE" value="title github" />
+    <MESSAGE value="created mobile first branch and began laying out the page content responsively" />
+    <option name="LAST_COMMIT_MESSAGE" value="created mobile first branch and began laying out the page content responsively" />
   </component>
 </project>
