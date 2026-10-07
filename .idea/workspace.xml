@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="created mobile first branch and began laying out the page content responsively">
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="wrapped up responsive">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,23 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="mobile-first" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dinh0103"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dinh0103&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dinh0103/HUMIS_HOME.git",
-    "accountId": "cae02998-f070-42ce-a899-74f5db228a5a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dinh0103/HUMIS_HOME.git&quot;,
+    &quot;accountId&quot;: &quot;cae02998-f070-42ce-a899-74f5db228a5a&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -123,7 +121,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "mobile-first",
+    "git-widget-placeholder": "inner-layout-flexbox-responsive",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "C:/Users/uyent/Downloads/HUMIS_HOME",
     "list.type.of.created.stylesheet": "CSS",
@@ -162,7 +160,8 @@
       <workItem from="1789591532661" duration="6177000" />
       <workItem from="1790022129517" duration="15182000" />
       <workItem from="1790629107410" duration="312000" />
-      <workItem from="1790629567462" duration="14289000" />
+      <workItem from="1790629567462" duration="15006000" />
+      <workItem from="1791408518517" duration="1616000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -236,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790805321744</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="wrapped up responsive">
+      <option name="closed" value="true" />
+      <created>1791237216692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791237216692</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +267,7 @@
     <MESSAGE value="header" />
     <MESSAGE value="title github" />
     <MESSAGE value="created mobile first branch and began laying out the page content responsively" />
-    <option name="LAST_COMMIT_MESSAGE" value="created mobile first branch and began laying out the page content responsively" />
+    <MESSAGE value="wrapped up responsive" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrapped up responsive" />
   </component>
 </project>
