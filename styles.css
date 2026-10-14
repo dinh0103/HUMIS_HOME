@@ -101,7 +101,7 @@ body {
         /* Tablet and up overrides*/
         @media screen and (width >= 600px) {
             /* A breakpoint */
-            border: 10px solid yellow;
+            /*border: 10px solid yellow;*/
 
             section.middle {
                 > nav { /* nav child */

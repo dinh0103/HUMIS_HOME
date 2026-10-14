@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="WIP: building out the responsive layout with flexbox">
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="WIP: wrapped up the mobile layout">
+      <change afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-layout.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/inner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/inner-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +166,7 @@
       <workItem from="1790022129517" duration="15182000" />
       <workItem from="1790629107410" duration="312000" />
       <workItem from="1790629567462" duration="15006000" />
-      <workItem from="1791408518517" duration="4642000" />
+      <workItem from="1791408518517" duration="14425000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -262,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791410179662</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="WIP: wrapped up the mobile layout">
+      <option name="closed" value="true" />
+      <created>1791838618506</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1791838618506</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +298,7 @@
     <MESSAGE value="created mobile first branch and began laying out the page content responsively" />
     <MESSAGE value="wrapped up responsive" />
     <MESSAGE value="WIP: building out the responsive layout with flexbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP: building out the responsive layout with flexbox" />
+    <MESSAGE value="WIP: wrapped up the mobile layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP: wrapped up the mobile layout" />
   </component>
 </project>
