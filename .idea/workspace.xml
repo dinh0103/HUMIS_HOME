@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="WIP: wrapped up the mobile layout">
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="ironed out the styling, created some new pages">
+      <change afterPath="$PROJECT_DIR$/homepage-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typography.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/inner-styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +138,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "editor.breadcrumbs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -168,7 +170,8 @@
       <workItem from="1790022129517" duration="15182000" />
       <workItem from="1790629107410" duration="312000" />
       <workItem from="1790629567462" duration="15006000" />
-      <workItem from="1791408518517" duration="15645000" />
+      <workItem from="1791408518517" duration="15842000" />
+      <workItem from="1792439689005" duration="4117000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -282,7 +285,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792013730467</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="WIP: wrapped up the mobile layout">
+      <option name="closed" value="true" />
+      <created>1792014780263</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1792014780263</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ironed out the styling, created some new pages">
+      <option name="closed" value="true" />
+      <created>1792014863368</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1792014863368</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +328,7 @@
     <MESSAGE value="wrapped up responsive" />
     <MESSAGE value="WIP: building out the responsive layout with flexbox" />
     <MESSAGE value="WIP: wrapped up the mobile layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP: wrapped up the mobile layout" />
+    <MESSAGE value="ironed out the styling, created some new pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="ironed out the styling, created some new pages" />
   </component>
 </project>

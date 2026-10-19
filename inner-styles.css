@@ -3,6 +3,7 @@
     --black: #000;
     --green-light: #B4B697;
     --grey-light: #F2F1F0;
+    --burgundy: #A12D;
 }
 
 /* Mobile first */
@@ -176,6 +177,10 @@ body {
 
                     nav.minor {
                         justify-content: flex-end;
+                    }
+
+                    main {
+                        min-height: 500px;
                     }
                 }
             }
