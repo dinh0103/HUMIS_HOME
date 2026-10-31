@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="ironed out the styling, created some new pages">
-      <change afterPath="$PROJECT_DIR$/homepage-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typography.css" afterDir="false" />
+    <list default="true" id="6cd338aa-4318-4057-89ff-cff412bb0228" name="Changes" comment="added a typography and images stylesheet and ironed out the about page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/images.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/inner-styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,29 +116,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "inner-layout-flexbox-responsive",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/uyent/Downloads/HUMIS_HOME",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.breadcrumbs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;inner-layout-flexbox-responsive&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/uyent/Downloads/HUMIS_HOME&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.breadcrumbs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\uyent\Downloads\HUMIS_HOME" />
@@ -171,7 +169,8 @@
       <workItem from="1790629107410" duration="312000" />
       <workItem from="1790629567462" duration="15006000" />
       <workItem from="1791408518517" duration="15842000" />
-      <workItem from="1792439689005" duration="4117000" />
+      <workItem from="1792439689005" duration="6012000" />
+      <workItem from="1793108264858" duration="2377000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -301,7 +300,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792014863368</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added a typography and images stylesheet and ironed out the about page">
+      <option name="closed" value="true" />
+      <created>1792443848169</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1792443848169</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added a typography and images stylesheet and ironed out the about page">
+      <option name="closed" value="true" />
+      <created>1792443863128</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1792443863128</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +344,7 @@
     <MESSAGE value="WIP: building out the responsive layout with flexbox" />
     <MESSAGE value="WIP: wrapped up the mobile layout" />
     <MESSAGE value="ironed out the styling, created some new pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="ironed out the styling, created some new pages" />
+    <MESSAGE value="added a typography and images stylesheet and ironed out the about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a typography and images stylesheet and ironed out the about page" />
   </component>
 </project>
