@@ -12,6 +12,7 @@ body {
     display: flex;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 
     section.container {
         background-color: white;
@@ -23,6 +24,11 @@ body {
 
         header {
             border-bottom: 6px solid #8b9650;
+        }
+
+        header img {
+            display: block;
+            width: 100%;
         }
 
         section.middle {
