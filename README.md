@@ -12,4 +12,4 @@ I think kind of? I didn't rely entirely on AI but what I did was ask questions f
 
 ### How might you leverage what you have learned so far in the future?
 
-Do my own projects or keep furthering ways to get better since I don't have a full understanding but learning the code is good for my future career. I want to get good at coding and making interactions that fit industry standards or stand out in my way.
+Do my own projects or keep furthering ways to get better since I don't have a full understanding but learning the code is good for my future career. I want to get good at coding and making interactions that fit industry standards or stand out in my way. I also want to make sites related to game making and see what I can come up with.
