@@ -4,12 +4,12 @@
 
 ### What was hard, what was easy about it?
 
-Making sure I nested my components correctly and making sure they work. Honestly everything was still kind of difficult and I had Google/GPT help me with a lot of questions I had or guiding from my errors. What was easy for me was maybe formatting or mainly just setting up the HTML since that was the only thing that felt simple to me even if I may have done it inefficiently somewhere.
+Making sure I nested my components correctly and ensuring they worked was probably the most difficult part. Honestly, everything was still kind of difficult, and I relied on Google and GPT to help answer questions and guide me through errors I encountered. What was easier for me was formatting and setting up the HTML, since those were the parts that felt the most straightforward, even if I may have done some things inefficiently.
 
 ### Do you feel that you understand the concepts I have introduced you to with the HUMIS project?
 
-I think kind of? I didn't rely entirely on AI but what I did was ask questions for guidance rather than having it do the code for me so a lot of trial and error. The repetition does help a lot to notice patterns on what to do. However I still think my organization is not good enough but at least I got the static pages to work.
+I think I understand some of the concepts, but I still have a lot to learn. I didn't rely entirely on AI to write my code for me. Instead, I used it to ask questions and get guidance when I ran into problems, which involved a lot of trial and error. Repetition has helped me recognize patterns and better understand what to do. However, I still think my organization and overall understanding of the code could improve. At least I was able to get my static pages working.
 
 ### How might you leverage what you have learned so far in the future?
 
-Do my own projects or keep furthering ways to get better since I don't have a full understanding but learning the code is good for my future career. I want to get good at coding and making interactions that fit industry standards or stand out in my way. I also want to make sites related to game making and see what I can come up with.
+I want to continue working on my own projects and find ways to improve my coding skills. Although I don't have a full understanding of everything yet, I think learning to code will be valuable for my future career. I want to become more comfortable with coding and creating interactive experiences that meet industry standards while still having my own creative touch. I'd also like to experiment with making websites related to game development and see what kinds of projects I can create.
